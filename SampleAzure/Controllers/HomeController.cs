@@ -15,7 +15,7 @@ namespace SampleAzure.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Manoj Kumar";
+            ViewBag.Message = "Manoj Kumar 19699";
 
             return View();
         }
